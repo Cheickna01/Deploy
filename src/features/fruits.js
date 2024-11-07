@@ -4,13 +4,13 @@ const initialState = {
   list: [
     {
       name: "Mango",
-      url: "/images/mango.jpg",
+      url: ".../public/images/mango.jpg",
       price: 5,
       id: 65237894,
     },
     {
       name: "Watermelon",
-      url: "/images/watermelon.jpg",
+      url: ".../public/images/watermelon.jpg",
       price: 7,
       id: 45129452,
     },
